@@ -36,21 +36,21 @@ h2 {
     display: block;
 }
 
-.video {
-    height: 600px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+/*.video {*/
+/*    height: 600px;*/
+/*    position: relative;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
 
-.play-btn {
-    position: absolute;
-    background: black;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
+/*.play-btn {*/
+/*    position: absolute;*/
+/*    background: black;*/
+/*    left: 50%;*/
+/*    top: 50%;*/
+/*    transform: translate(-50%, -50%);*/
+/*}*/
 
 a {
     text-decoration: none;
